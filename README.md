@@ -21,9 +21,13 @@ Each topic is written with **simple examples** for easy understanding.
 
 Basics/
 ├── HelloWorld.java
+
 ├── Variables.java
+
 ├── DataTypes.java
+
 ├── Operators.java
+
 ├── Keywords.java
 
 ---
