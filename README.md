@@ -20,6 +20,7 @@ Each topic is written with **simple examples** for easy understanding.
 ## 📂 Folder Structure
 
 Basics/
+
 ├── HelloWorld.java
 
 ├── Variables.java
